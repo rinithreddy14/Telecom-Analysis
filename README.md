@@ -1,5 +1,5 @@
 # Telecom Analysis Project
-[Dashboard] (https://app.powerbi.com/reportEmbed?reportId=a8758af6-92e4-4e76-81d8-36e963b20f2b&autoAuth=true&ctid=975c8213-07b6-4c7f-b850-f683a488501b)
+[Dashboard](https://app.powerbi.com/reportEmbed?reportId=a8758af6-92e4-4e76-81d8-36e963b20f2b&autoAuth=true&ctid=975c8213-07b6-4c7f-b850-f683a488501b)
 ## Overview
 This project focuses on analyzing the performance of AtliQo, a leading telecom provider in India, specifically examining the Key Performance Indicators (KPIs) before and after the 5G launch. The insights gained from this analysis help to optimize user engagement, increase revenue, and identify opportunities for improvement in internet plans and services.
 
